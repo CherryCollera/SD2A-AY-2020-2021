@@ -1,0 +1,6 @@
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample3_InputMyName\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe.config
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample3_InputMyName\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample3_InputMyName\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.pdb
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample3_InputMyName\Sample3_InputMyName\obj\Debug\TorreverdeLeonardBryanC.csproj.CoreCompileInputs.cache
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample3_InputMyName\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.exe
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample3_InputMyName\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.pdb
