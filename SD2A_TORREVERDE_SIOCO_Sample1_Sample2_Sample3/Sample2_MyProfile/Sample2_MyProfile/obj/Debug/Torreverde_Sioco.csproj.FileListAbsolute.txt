@@ -1,0 +1,7 @@
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe.config
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample2_MyProfile\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.pdb
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\Torreverde_Sioco.csprojAssemblyReference.cache
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\Torreverde_Sioco.csproj.CoreCompileInputs.cache
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.exe
+D:\Files\SKOL\Sem 2\OOP\Coderings\Sample2_MyProfile\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.pdb
