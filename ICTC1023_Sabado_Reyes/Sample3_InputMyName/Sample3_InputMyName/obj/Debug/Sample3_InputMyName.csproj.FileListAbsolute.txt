@@ -1,0 +1,7 @@
+C:\Users\admin\OneDrive\Documents\tal\Sample3_InputMyName\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe.config
+C:\Users\admin\OneDrive\Documents\tal\Sample3_InputMyName\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe
+C:\Users\admin\OneDrive\Documents\tal\Sample3_InputMyName\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.pdb
+C:\Users\admin\OneDrive\Documents\tal\Sample3_InputMyName\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\tal\Sample3_InputMyName\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Documents\tal\Sample3_InputMyName\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.exe
+C:\Users\admin\OneDrive\Documents\tal\Sample3_InputMyName\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.pdb
