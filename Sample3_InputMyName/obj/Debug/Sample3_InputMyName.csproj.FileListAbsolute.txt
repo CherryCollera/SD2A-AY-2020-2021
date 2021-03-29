@@ -1,0 +1,6 @@
+C:\Users\KN Tech\source\repos\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe.config
+C:\Users\KN Tech\source\repos\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe
+C:\Users\KN Tech\source\repos\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.pdb
+C:\Users\KN Tech\source\repos\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.csproj.CoreCompileInputs.cache
+C:\Users\KN Tech\source\repos\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.exe
+C:\Users\KN Tech\source\repos\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.pdb
