@@ -1,0 +1,12 @@
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\obj\Debug\Activity09_Pajarillo.Form1.resources
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\obj\Debug\Activity09_Pajarillo.Properties.Resources.resources
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\obj\Debug\Activity09_Pajarillo.csproj.GenerateResource.cache
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\obj\Debug\Activity09_Pajarillo.csproj.CoreCompileInputs.cache
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\bin\Debug\book3.accdb
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\bin\Debug\Activity09_Pajarillo.exe.config
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\bin\Debug\Activity09_Pajarillo.exe
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\bin\Debug\Activity09_Pajarillo.pdb
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\obj\Debug\Activity09_Pajarillo.exe
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\obj\Debug\Activity09_Pajarillo.pdb
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\bin\Debug\book3.mdb
+C:\Users\jeivee\source\repos\Activity09_Pajarillo\Activity09_Pajarillo\obj\Debug\Activity09_Pajarillo.csproj.AssemblyReference.cache
